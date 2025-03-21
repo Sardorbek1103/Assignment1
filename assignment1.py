@@ -1,3 +1,10 @@
+# Assigment №1 by SNG group
+# Group members:
+# Turgunov Sardorbek
+# Issayeva Dildar
+# Sultanova Galiya
+# Sarsenbaev Tenizbay
+# Turganbekov Egemberdi
 import pandas as pd
 
 # Load the dataset
